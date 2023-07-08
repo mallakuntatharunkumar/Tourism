@@ -1,0 +1,466 @@
+.first {
+    margin: 60px 200px;
+    border: 10px groove orange;
+    padding: 50px;
+    background-color: aquamarine;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.head1 {
+    text-align: center;
+    font-size: xx-large;
+    color: brown;
+    font-weight: bolder;
+    font-style: normal;
+}
+
+.araku {
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    cursor: pointer;
+    float: left;
+    text-align: center;
+
+}
+
+.para1 {
+    text-align: initial;
+}
+
+.button1 {
+    border: none;
+    padding: 4px 32px;
+    border-radius: 4px;
+    font-size: small;
+    color: red;
+    cursor: pointer;
+    background-color: black;
+    text-align: center;
+}
+
+
+.second {
+    margin: 70px 200px;
+    border: 10px groove orange;
+    padding: 50px;
+    background-color: rgb(255, 127, 127);
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.head2 {
+    text-align: center;
+    font-size: xx-large;
+    color: darkorchid;
+    font-weight: bolder;
+    font-style: normal;
+}
+
+.tirumala {
+    height: 170px;
+    width: 170px;
+    object-fit: cover;
+    border-radius: 50%;
+    cursor: pointer;
+    float: left;
+    text-align: center;
+
+}
+
+.para2 {
+    text-align: initial;
+}
+
+
+.button2 {
+    border: none;
+    padding: 4px 32px;
+    border-radius: 4px;
+    font-size: small;
+    color: red;
+    cursor: pointer;
+    background-color: black;
+
+}
+
+.third {
+    margin: 70px 200px;
+    border: 10px groove orange;
+    padding: 50px;
+    background-color: rgb(255, 127, 253);
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.head3 {
+    text-align: center;
+    font-size: xx-large;
+    color: blue;
+    font-weight: bolder;
+    font-style: normal;
+}
+
+.kilasagiri {
+    height: 170px;
+    width: 170px;
+    object-fit: cover;
+    border-radius: 50%;
+    cursor: pointer;
+    float: left;
+    text-align: center;
+
+}
+
+.para3 {
+    text-align: initial;
+}
+
+.button3 {
+    border: none;
+    padding: 4px 32px;
+    border-radius: 4px;
+    font-size: small;
+    color: red;
+    cursor: pointer;
+    background-color: black;
+}
+
+.four {
+    margin: 70px 200px;
+    border: 10px groove orange;
+    padding: 50px;
+    background-color: rgb(255, 200, 127);
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.head4 {
+    text-align: center;
+    font-size: xx-large;
+    color: rgb(209, 0, 164);
+    font-weight: bolder;
+    font-style: normal;
+}
+
+.charminar {
+    height: 170px;
+    width: 170px;
+    object-fit: cover;
+    border-radius: 50%;
+    cursor: pointer;
+    float: left;
+    text-align: center;
+
+}
+
+.para4 {
+    text-align: initial;
+}
+
+.button4 {
+    border: none;
+    padding: 4px 32px;
+    border-radius: 4px;
+    font-size: small;
+    color: red;
+    cursor: pointer;
+    background-color: black;
+}
+
+.five {
+    margin: 70px 200px;
+    border: 10px groove orange;
+    padding: 50px;
+    background-color: rgb(255, 127, 127);
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+
+.head5 {
+    text-align: center;
+    font-size: xx-large;
+    color: rgb(209, 0, 150);
+    font-weight: bolder;
+    font-style: normal;
+}
+
+.thajmahal {
+    height: 170px;
+    width: 170px;
+    object-fit: cover;
+    border-radius: 50%;
+    cursor: pointer;
+    float: left;
+    text-align: center;
+
+}
+
+.para5 {
+    text-align: initial;
+}
+
+.button5 {
+    border: none;
+    padding: 4px 32px;
+    border-radius: 4px;
+    font-size: small;
+    color: red;
+    cursor: pointer;
+    background-color: black;
+}
+
+.six {
+    margin: 1px 200px;
+    border: 10px groove orange;
+    padding: 50px;
+    background-color: lightsalmon;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+
+.head6 {
+    text-align: center;
+    font-size: xx-large;
+    color: black;
+    font-weight: bolder;
+    font-style: normal;
+}
+
+.kedarnath {
+    height: 170px;
+    width: 170px;
+    object-fit: cover;
+    border-radius: 50%;
+    cursor: pointer;
+    float: left;
+    text-align: center;
+
+}
+
+.para6 {
+    text-align: initial;
+}
+
+.button6 {
+    border: none;
+    padding: 4px 32px;
+    border-radius: 4px;
+    font-size: small;
+    color: red;
+    cursor: pointer;
+    background-color: black;
+}
+
+.seven {
+    margin: 70px 200px;
+    border: 10px groove orange;
+    padding: 50px;
+    background-color: lightskyblue;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+
+.head7 {
+    text-align: center;
+    font-size: xx-large;
+    color: lightcoral;
+    font-weight: bolder;
+    font-style: normal;
+}
+
+.mysore {
+    height: 170px;
+    width: 170px;
+    object-fit: cover;
+    border-radius: 50%;
+    cursor: pointer;
+    float: left;
+    text-align: center;
+
+}
+
+.para7 {
+    text-align: initial;
+}
+
+.button7 {
+    border: none;
+    padding: 4px 32px;
+    border-radius: 4px;
+    font-size: small;
+    color: red;
+    cursor: pointer;
+    background-color: black;
+}
+
+.eight {
+    margin: 70px 200px;
+    border: 10px groove orange;
+    padding: 50px;
+    background-color: mediumspringgreen;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.head8 {
+    text-align: center;
+    font-size: xx-large;
+    color: darkcyan;
+    font-weight: bolder;
+    font-style: normal;
+}
+
+.kanipakam {
+    height: 170px;
+    width: 170px;
+    object-fit: cover;
+    border-radius: 50%;
+    cursor: pointer;
+    float: left;
+    text-align: center;
+
+}
+
+.para8 {
+    text-align: initial;
+}
+
+.button8 {
+    border: none;
+    padding: 4px 32px;
+    border-radius: 4px;
+    font-size: small;
+    color: red;
+    cursor: pointer;
+    background-color: black;
+}
+
+.nine {
+    margin: 70px 200px;
+    border: 10px groove orange;
+    padding: 50px;
+    background-color: pink;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.head9 {
+    text-align: center;
+    font-size: xx-large;
+    color: green;
+    font-weight: bolder;
+    font-style: normal;
+}
+
+.beach {
+    height: 170px;
+    width: 170px;
+    object-fit: cover;
+    border-radius: 50%;
+    cursor: pointer;
+    float: left;
+    text-align: center;
+
+}
+
+.para9 {
+    text-align: initial;
+}
+
+.button9 {
+    border: none;
+    padding: 4px 32px;
+    border-radius: 4px;
+    font-size: small;
+    color: red;
+    cursor: pointer;
+    background-color: black;
+}
+
+.ten {
+    margin: 70px 200px;
+    border: 10px groove orange;
+    padding: 50px;
+    background-color: violet;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.head10 {
+    text-align: center;
+    font-size: xx-large;
+    color: brown;
+    font-weight: bolder;
+    font-style: normal;
+}
+
+.thalakona {
+    height: 170px;
+    width: 170px;
+    object-fit: cover;
+    border-radius: 50%;
+    cursor: pointer;
+    float: left;
+    text-align: center;
+
+}
+
+.para10 {
+    text-align: initial;
+}
+
+.button10 {
+    border: none;
+    padding: 4px 32px;
+    border-radius: 4px;
+    font-size: small;
+    color: red;
+    cursor: pointer;
+    background-color: black;
+}
+
+.h1 {
+    margin: 70px 1px;
+    text-align: center;
+    font-weight: bolder;
+    background-color: aqua;
+
+}
+
+.login {
+    margin: 200px;
+    color: black;
+    font-weight: bold;
+}
+
+.confirm {
+    border: none;
+    border-radius: 2px;
+    color: black;
+    background-color: lightgoldenrodyellow;
+}
+
+.flight {
+    margin: 30px;
+
+}
